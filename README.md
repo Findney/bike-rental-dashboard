@@ -1,4 +1,4 @@
-# Bike Sharing Dashboard
+# Bike Rental Dashboard
 Hasil: https://bike-rental-dashboard-am.streamlit.app
 
 ## Instalasi
