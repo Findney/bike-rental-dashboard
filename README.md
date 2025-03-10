@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Menjalankan Aplikasi
 Jalankan perintah berikut untuk memulai aplikasi:
 ```bash
-streamlit run app.py
+streamlit run dashboard.py --server.runOnSave=True
 ```
 
 Akses dashboard melalui browser di `http://localhost:8501`
