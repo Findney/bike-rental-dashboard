@@ -1,4 +1,5 @@
 # Bike Sharing Dashboard
+Hasil: https://bike-rental-dashboard-am.streamlit.app
 
 ## Instalasi
 Pastikan Anda memiliki **Python 3.8 atau lebih baru** dan **pip** terinstal di sistem Anda.
