@@ -1,19 +1,46 @@
-# 🎈 Blank app template
+# 🚲 Bike Sharing Dashboard
 
-A simple Streamlit app template for you to modify!
+## Instalasi
+Pastikan Anda memiliki **Python 3.8 atau lebih baru** dan **pip** terinstal di sistem Anda.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+### 1. Clone repository ini
+```bash
+git clone https://github.com/Findney/bike-rental-dashboard.git
+cd bike-rental-dashboard
+```
 
-### How to run it on your own machine
+### 2. Buat Virtual Environment (Opsional)
+Disarankan menggunakan environment virtual untuk mengelola dependensi.
 
-1. Install the requirements
+#### Menggunakan venv:
+```bash
+python -m venv env
+source env/bin/activate  # Untuk macOS/Linux
+env\Scripts\activate  # Untuk Windows
+```
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+#### Menggunakan Conda:
+```bash
+conda create --name bike_env python=3.8
+conda activate bike_env
+```
 
-2. Run the app
+### 3. Instal dependensi
+```bash
+pip install -r requirements.txt
+```
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## 🚀 Menjalankan Aplikasi
+Jalankan perintah berikut untuk memulai aplikasi:
+```bash
+streamlit run app.py
+```
+
+Akses dashboard melalui browser di `http://localhost:8501`
+
+## Lisensi
+Proyek ini berlisensi **MIT License**.
+
+---
+Dibuat oleh **Agil Mughni**
+
