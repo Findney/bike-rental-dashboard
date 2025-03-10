@@ -102,7 +102,7 @@ if len(date_range) == 2:
 
     with col1:
         st.markdown("##### Distribusi Segmen Pelanggan")
-        fig, ax = plt.subplots(figsize=(6, 6))
+        fig, ax = plt.subplots(figsize=(6, 5.3))
         rfm_df['Segment'].value_counts().plot.pie(autopct='%1.1f%%', colors=['gold', 'skyblue', 'lightcoral', 'lightgreen'])
         plt.ylabel('')
         st.pyplot(fig)
