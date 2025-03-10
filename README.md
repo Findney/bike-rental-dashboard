@@ -1,4 +1,4 @@
-# 🚲 Bike Sharing Dashboard
+# Bike Sharing Dashboard
 
 ## Instalasi
 Pastikan Anda memiliki **Python 3.8 atau lebih baru** dan **pip** terinstal di sistem Anda.
