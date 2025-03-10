@@ -30,7 +30,7 @@ conda activate bike_env
 pip install -r requirements.txt
 ```
 
-## 🚀 Menjalankan Aplikasi
+## Menjalankan Aplikasi
 Jalankan perintah berikut untuk memulai aplikasi:
 ```bash
 streamlit run app.py
