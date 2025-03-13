@@ -39,9 +39,6 @@ streamlit run dashboard.py --server.runOnSave=True
 
 Akses dashboard melalui browser di `http://localhost:8501`
 
-## Lisensi
-Proyek ini berlisensi **MIT License**.
-
 ---
 Dibuat oleh **Agil Mughni**
 
